@@ -32,7 +32,7 @@ This project features a responsive Nike landing page built using React, Javascri
 
 <h3>Prerequisites</h3>
 
-Here you list all prerequisites necessary for running the project.
+Here are the list of all prerequisites necessary for running the project.
 
 -   [NodeJS](https://nodejs.org)
 -   [Git 2](https://git-scm.com/downloads)
