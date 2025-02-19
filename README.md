@@ -41,13 +41,13 @@ Here you list all prerequisites necessary for running the project.
 <h3>Cloning</h3>
 
 ```bash
-git clone your-project-url-in-github
+git clone https://github.com/BekaAbate/NikeLandingPage.git
 ```
 
 <h3>Starting</h3>
 
 ```bash
-cd project-name
+cd nike-landing
 npm i
 npm run dev
 ```
