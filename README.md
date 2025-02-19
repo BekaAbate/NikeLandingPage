@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-    <img src="./Group 2(2)(1).png" alt="Image Example" width="70%">
+    <img src="./src/assets/view.png" alt="Image Example" width="70%">
 </p>
 
 <h2 id="started">📌 About</h2>
